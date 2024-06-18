@@ -1,6 +1,6 @@
 # BookFilter
 
-Este proyecto es una aplicación springboot el cual pude un token a partir de un servicio de autentificacion
+Este proyecto es una aplicación springboot el cual pide un token a partir de un servicio de autentificación
 
 ## Requisitos
 
